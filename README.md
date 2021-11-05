@@ -12,7 +12,7 @@ This allows you to have a 9 digit display when the MK14 board is suitably modifi
 
 In both cases there is a zip of the kicad files and a zip of the gerber files used to produce the boards.
 
-Let mw know if you find these useful and if you get them made up.
+Let me know if you find these useful and if you get them made up.
 
 David Allday
 November 2021
